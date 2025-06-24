@@ -28,15 +28,15 @@ My goal is to make responsive and interactive web pages. I also do my best to be
 
 ### [Asyut Surveying Institute]([project_1_link](https://asyut-surveying-ins.org/))
 
-![Project 1 Screenshot](project_1_screenshot_url)
+// ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[HTML - CSS - Javascript]**. You can check out the repository [here](project_1_repository_link).
+**[Asyut Surveying Institute]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[HTML - CSS - Javascript]**. You can check out the repository [here](project_1_repository_link).
 
 ### [My website]([project_2_link](https://x.com/HafzKhalil))
 
-![Project 2 Screenshot](project_2_screenshot_url)
+// ![Project 2 Screenshot](project_2_screenshot_url)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[HTML - CSS - Javascript]**. You can check out the repository [here](project_2_repository_link).
+**[My website]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[HTML - CSS - Javascript]**. You can check out the repository [here](project_2_repository_link).
 
 ## Get in Touch 📬
 
