@@ -40,7 +40,7 @@ My goal is to make responsive and interactive web pages. I also do my best to be
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**([[your_website_or_blog_link](https://www.hafztech.com/)](https://www.hafztech.com/))
+- **[Personal Website / Blog]**([(https://www.hafztech.com/)](https://www.hafztech.com/))
 - **[LinkedIn]**(www.linkedin.com/in/khalil-hafz-0a97943b)
 - **[Twitter]**([your_twitter_profile_link](https://x.com/HafzKhalil))
 
