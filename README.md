@@ -1,5 +1,5 @@
 
-# Hi there, I'm [Khalil Hafz]! 👋
+# Hi there, I'm Khalil Hafz! 👋
 
 
 
@@ -8,11 +8,11 @@
 My name is Khalil Hafz, I am a Junior Software Developer, I work as freelancer, my personal brand is Hafz Tech, I worked for 20 years as Civil engineer in a lot of projects in Egypt and Saudi Arabia which gave me the the ability to effective teamwork and project management.
 My goal is to make responsive and interactive web pages. I also do my best to be a full stack developer. I enjoy working in software development, i hope being talent and make full stack amazing and user-friendly websites & Apps. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions. contact me throgh email khalilhafz@gmail.com
 
-- 🌱 Currently learning: **[ProDev Full stack software]**
-- 🔭 Working on: **[Hotels Booking Platform]**
-- 🌍 Languages: **[English - Arabic - HTML - CSS - Javascript - Python - PHP ]**
-- 📫 How to reach me: **[Email: khalilhafz@gmail.com  Mobile: +201006664008]**
-- ⚡ Fun fact: **[I dreamed to be software developer 23 years age]**
+- 🌱 Currently learning: **ProDev Full stack software**
+- 🔭 Working on: **Hotels Booking Platform**
+- 🌍 Languages: **English - Arabic - HTML - CSS - Javascript - Python - PHP **
+- 📫 How to reach me: **Email: khalilhafz@gmail.com  Mobile: +201006664008**
+- ⚡ Fun fact: **I dreamed to be software developer 23 years age**
 
 ## My Skills 🧠
 
@@ -32,11 +32,11 @@ My goal is to make responsive and interactive web pages. I also do my best to be
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[HTML - CSS - Javascript]**. You can check out the repository [here](project_1_repository_link).
 
-### [Project 2 Title](project_2_link)
+### [My website]([project_2_link](https://x.com/HafzKhalil))
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[HTML - CSS - Javascript]**. You can check out the repository [here](project_2_repository_link).
 
 ## Get in Touch 📬
 
