@@ -12,7 +12,7 @@ My goal is to make responsive and interactive web pages. I also do my best to be
 - 🔭 Working on: **[Hotels Booking Platform]**
 - 🌍 Languages: **[English - Arabic - HTML - CSS - Javascript - Python - PHP ]**
 - 📫 How to reach me: **[Email: khalilhafz@gmail.com  Mobile: +201006664008]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- ⚡ Fun fact: **[I dreamed to be software developer 23 years age]**
 
 ## My Skills 🧠
 
@@ -30,7 +30,7 @@ My goal is to make responsive and interactive web pages. I also do my best to be
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[HTML - CSS - Javascript]**. You can check out the repository [here](project_1_repository_link).
 
 ### [Project 2 Title](project_2_link)
 
